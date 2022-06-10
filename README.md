@@ -1,2 +1,2 @@
-# minhas-musicas
+# minha-musica
 álbum de musicas
